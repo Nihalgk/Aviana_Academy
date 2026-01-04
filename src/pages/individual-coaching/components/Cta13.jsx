@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@relume_io/relume-ui";
-import React from "react";
+import { Link } from "react-router-dom";
 
 export function Cta13() {
     return (
@@ -18,9 +18,9 @@ export function Cta13() {
                         discuss which program fits your goals.
                     </p>
                     <div className="mt-6 flex flex-wrap gap-4 md:mt-8">
-                        <a href="/contact">
+                        <Link to="/contact">
                             <Button title="Contact">Contact</Button>
-                        </a>
+                        </Link>
 
                     </div>
                 </div>

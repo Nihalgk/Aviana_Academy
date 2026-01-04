@@ -1,7 +1,7 @@
 "use client";
 
 import { Button, Input } from "@relume_io/relume-ui";
-import React from "react";
+import { Link } from "react-router-dom";
 
 export function Cta54() {
     return (
@@ -19,11 +19,11 @@ export function Cta54() {
                     </div>
                     <div className="mx-auto mt-6 max-w-sm md:mt-8">
                         <div className="flex items-center justify-center gap-4">
-                            <a href="/contact">
+                            <Link to="/contact">
                                 <Button title="Contact" variant="primary" className="items-center justify-center px-6 py-3">
                                     Contact
                                 </Button>
-                            </a>
+                            </Link>
                         </div>
                     </div>
                 </div>
