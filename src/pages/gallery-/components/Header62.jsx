@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@relume_io/relume-ui";
-import React from "react";
+import { Link } from "react-router-dom";
 
 export function Header62() {
     return (
@@ -17,11 +17,11 @@ export function Header62() {
                 </p>
                 <div className="mt-6 flex items-center justify-center gap-x-4 md:mt-8">
 
-                    <a href="/contact">
+                    <Link to="/contact">
                         <Button title="Contact" variant="secondary">
                             Contact
                         </Button>
-                    </a>
+                    </Link>
                 </div>
             </div>
         </section>
