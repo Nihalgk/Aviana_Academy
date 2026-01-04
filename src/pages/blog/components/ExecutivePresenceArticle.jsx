@@ -178,35 +178,35 @@ export function ExecutivePresenceArticle() {
                     </h2>
 
                     <h3 className="mt-8 mb-4 text-2xl font-bold">
-                        🌟 Tailored Leadership Development Programs
+                        Tailored Leadership Development Programs
                     </h3>
                     <p className="leading-relaxed">
                         Designed to meet the unique needs of organisations and individual leaders.
                     </p>
 
                     <h3 className="mt-8 mb-4 text-2xl font-bold">
-                        🌟 Experiential Coaching Methodology
+                        Experiential Coaching Methodology
                     </h3>
                     <p className="leading-relaxed">
                         Simulations, case studies, video feedback, and real-time strategy practice.
                     </p>
 
                     <h3 className="mt-8 mb-4 text-2xl font-bold">
-                        🌟 Certified Coaches & Industry Experts
+                        Certified Coaches & Industry Experts
                     </h3>
                     <p className="leading-relaxed">
                         Trainers with global experience in leadership communication and executive development.
                     </p>
 
                     <h3 className="mt-8 mb-4 text-2xl font-bold">
-                        🌟 Small Cohort Learning
+                        Small Cohort Learning
                     </h3>
                     <p className="leading-relaxed">
                         Focused coaching and personalised insights for deeper transformation.
                     </p>
 
                     <h3 className="mt-8 mb-4 text-2xl font-bold">
-                        🌟 Holistic Growth Approach
+                        Holistic Growth Approach
                     </h3>
                     <p className="leading-relaxed">
                         Executive Presence integrated with leadership, communication, and behavioral skills.
