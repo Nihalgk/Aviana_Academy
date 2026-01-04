@@ -7,7 +7,7 @@ export const Header98 = (props) => {
         ...props,
     };
     return (
-        <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28 bg-black text-white">
+        <section id="relume" className="px-[5%] py-8 md:py-12 lg:py-14 bg-black text-white">
             <div className="container">
                 <div className="grid grid-cols-1 gap-y-12 md:grid-cols-2 md:items-center md:gap-x-12 lg:gap-x-20">
                     <div>

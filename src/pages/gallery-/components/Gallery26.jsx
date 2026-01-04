@@ -50,7 +50,7 @@ const useCarousel = () => {
 export function Gallery26() {
     const carouselState = useCarousel();
     return (
-        <section id="aviana" className="overflow-hidden py-16 md:py-24 lg:py-28">
+        <section id="aviana" className="overflow-hidden py-8 md:py-12 lg:py-14">
             <div className="grid auto-cols-fr grid-cols-1 items-center gap-12 md:gap-16 lg:grid-cols-2 lg:gap-0">
                 <div className="flex lg:justify-self-start">
                     <div className="mx-[5%] w-full max-w-md lg:mb-24 lg:ml-[10%] lg:mr-0">

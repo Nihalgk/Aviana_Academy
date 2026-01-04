@@ -332,7 +332,7 @@ export function Blog30() {
         ],
     });
     return (
-        <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="relume" className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container flex max-w-lg flex-col">
                 <div className="mb-12 text-center md:mb-18 lg:mb-20">
                     <div className="w-full max-w-lg">

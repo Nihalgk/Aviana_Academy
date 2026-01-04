@@ -26,7 +26,7 @@ const AnimationSection = () => {
 
 export function Layout121() {
     return (
-        <section id="aviana" className="px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="aviana" className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container">
                 <div className="grid grid-cols-1 items-start gap-y-8 md:grid-cols-2 md:gap-x-12 lg:gap-x-20">
                     <div>

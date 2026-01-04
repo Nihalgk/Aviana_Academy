@@ -6,7 +6,7 @@ import { RxChevronRight } from "react-icons/rx";
 
 export function Layout210() {
     return (
-        <section id="aviana" className="px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="aviana" className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container">
                 <div className="grid grid-cols-1 items-center gap-12 md:grid-cols-[1.2fr_1fr] lg:gap-x-20">
                     <div className="order-2 md:order-1">

@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 export function Cta54() {
     return (
-        <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="relume" className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container relative">
                 <div className="relative z-10 flex flex-col items-center p-8 md:p-12 lg:p-16">
                     <div className="max-w-lg text-center">

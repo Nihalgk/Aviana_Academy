@@ -43,7 +43,7 @@ export function Testimonial42() {
     return (
         <section
             id="aviana"
-            className="overflow-hidden px-[5%] py-16 md:py-24 lg:py-28"
+            className="overflow-hidden px-[5%] py-8 md:py-12 lg:py-14"
         >
             <div className="container">
                 <div className="grid auto-cols-fr grid-cols-1 items-center gap-12 md:gap-16 lg:grid-cols-2 lg:gap-20">

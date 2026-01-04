@@ -2,7 +2,7 @@ import React from "react";
 
 export function ExecutivePresenceArticle() {
     return (
-        <article className="px-[5%] py-16 md:py-24 lg:py-28">
+        <article className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container max-w-4xl">
                 {/* Header */}
                 <header className="mb-12">

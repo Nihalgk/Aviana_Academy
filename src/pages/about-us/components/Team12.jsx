@@ -7,7 +7,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 export function Team12() {
     return (
-        <section id="aviana" className="px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="aviana" className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container">
                 <div className="mx-auto max-w-lg text-center">
                     <div className="mb-12 md:mb-18 lg:mb-20">

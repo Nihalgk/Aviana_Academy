@@ -6,7 +6,7 @@ import { RxChevronRight } from "react-icons/rx";
 
 export function Testimonial22() {
     return (
-        <section id="aviana" className="px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="aviana" className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container">
                 <div className="mb-12 md:mb-18 lg:mb-20">
                     <h2 className="mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl">

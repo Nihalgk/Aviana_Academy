@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 export function Cta51() {
     return (
-        <section id="aviana" className="px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="aviana" className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container">
                 <div className="relative flex flex-col items-center overflow-hidden p-8 md:p-12 lg:p-16">
                     <div className="absolute inset-0">

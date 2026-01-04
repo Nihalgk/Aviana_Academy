@@ -28,7 +28,7 @@ const useForm = () => {
 export function Footer1() {
     const formState = useForm();
     return (
-        <footer id="aviana" className="px-[5%] py-12 md:py-18 lg:py-20 bg-black text-white">
+        <footer id="aviana" className="px-[5%] py-8 md:py-12 lg:py-14 bg-black text-white">
             <div className="container">
                 <div className="grid grid-cols-1 gap-x-[8vw] gap-y-12 pb-12 md:gap-y-16 md:pb-18 lg:grid-cols-[0.75fr_1fr] lg:gap-y-4 lg:pb-20">
                     <div className="flex flex-col">

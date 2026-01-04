@@ -7,7 +7,7 @@ import { RxChevronRight } from "react-icons/rx";
 
 export function Contact14() {
     return (
-        <section id="aviana" className="px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="aviana" className="px-[5%] py-8 md:py-12 lg:py-14">
             <div className="container">
                 <div className="rb-12 mb-12 max-w-lg md:mb-18 lg:mb-20">
 

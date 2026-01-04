@@ -5,7 +5,7 @@ import React from "react";
 
 export function Header62() {
     return (
-        <section id="aviana" className="relative px-[5%] py-16 md:py-24 lg:py-28">
+        <section id="aviana" className="relative px-[5%] py-8 md:py-12 lg:py-14">
             <div className="absolute inset-0 -z-10">
                 <img
                     src="/images/contact-page-/CON1.jpeg"
