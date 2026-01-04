@@ -17,6 +17,9 @@ export function PersonalBrandArticle() {
                     <h1 className="mb-6 text-4xl font-bold md:text-5xl lg:text-6xl">
                         Build a Powerful Personal Brand Through Dressing, Behaviour & Digital Presence
                     </h1>
+                    <p className="text-lg text-text-secondary">
+                        Aviana Academy | Global Training & Development
+                    </p>
                 </header>
 
                 {/* Article Content */}
