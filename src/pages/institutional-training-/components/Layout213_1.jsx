@@ -31,19 +31,7 @@ export function Layout213_1() {
                                 <li>Classroom management, evaluation, and feedback</li>
                             </ul>
                         </div>
-                        <div className="mt-6 flex flex-wrap gap-4 md:mt-8">
-                            <Button title="Discover" variant="secondary">
-                                Discover
-                            </Button>
-                            <Button
-                                title="Read"
-                                variant="link"
-                                size="link"
-                                iconRight={<RxChevronRight />}
-                            >
-                                Read
-                            </Button>
-                        </div>
+
                     </div>
                 </div>
             </div>

@@ -52,13 +52,14 @@ export function Gallery26() {
     return (
         <section id="aviana" className="overflow-hidden py-16 md:py-24 lg:py-28">
             <div className="grid auto-cols-fr grid-cols-1 items-center gap-12 md:gap-16 lg:grid-cols-2 lg:gap-0">
-                <div className="flex lg:justify-self-end">
-                    <div className="mx-[5%] w-full max-w-md lg:mb-24 lg:ml-[5vw] lg:mr-20">
+                <div className="flex lg:justify-self-start">
+                    <div className="mx-[5%] w-full max-w-md lg:mb-24 lg:ml-[10%] lg:mr-0">
                         <h2 className="mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl">
                             Our work
                         </h2>
                         <p className="md:text-md">
-                            Filter by events, workshops, testimonials, and behind-the-scenes
+                            Filter by events, workshops, <br />
+                            testimonials, and behind-the-scenes <br />
                             moments
                         </p>
                     </div>
@@ -66,7 +67,7 @@ export function Gallery26() {
                 <Carousel
                     setApi={carouselState.setApi}
                     opts={{ loop: true, align: "start" }}
-                    className="overflow-hidden px-[5%] lg:px-0"
+                    className="overflow-hidden px-[5%] lg:-ml-24 lg:-translate-x-[8%] lg:px-0"
                 >
                     <CarouselContent className="ml-0">
                         <CarouselItem className="basis-[95%] pl-0 pr-6 sm:basis-4/5 md:basis-1/2 md:pr-8 lg:basis-[45%]">
