@@ -60,7 +60,7 @@ export function Navbar14() {
     return (
         <section
             id="navbar"
-            className="fixed inset-0 bottom-auto z-[1000] mx-auto mt-5 flex w-full bg-transparent px-[5%] md:mt-6 lg:mx-[5%] lg:w-auto lg:px-0"
+            className="sticky top-0 z-[1000] mx-auto mt-5 flex w-full bg-transparent px-[5%] md:mt-6 lg:mx-[5%] lg:w-auto lg:px-0"
         >
             <div className="mx-auto flex min-h-16 w-full max-w-xxl items-center justify-between gap-x-4 gap-y-4 border border-neutral-800 bg-black text-white px-5 md:min-h-18 md:px-8 rounded-3xl">
                 <Link to="/" className="flex items-center gap-3">
