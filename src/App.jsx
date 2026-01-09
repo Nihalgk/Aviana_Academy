@@ -15,10 +15,13 @@ import CorporateCommunicationBlog from './pages/blog/corporate-communication';
 import ExecutivePresenceBlog from './pages/blog/executive-presence';
 import PersonalBrandBlog from './pages/blog/personal-brand';
 
+import WhatsAppButton from './components/WhatsAppButton';
+
 function App() {
     return (
         <Router>
             <ScrollToTop />
+            <WhatsAppButton />
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/about-us" element={<AboutUs />} />
