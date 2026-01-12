@@ -37,6 +37,7 @@ export function Layout369() {
                             </div>
                             <div className="flex items-center justify-center">
                                 <img
+                                    loading="lazy"
                                     src="/images/home/im2.jpeg"
                                     alt="Aviana placeholder image 3"
                                     className="size-full object-cover"
@@ -57,6 +58,7 @@ export function Layout369() {
                             </div>
                             <div className="relative h-[300px] min-h-[250px]">
                                 <img
+                                    loading="lazy"
                                     src="/images/home/touse5.png"
                                     alt="Aviana placeholder image 1"
                                     className="absolute inset-0 size-full object-cover"
@@ -77,6 +79,7 @@ export function Layout369() {
                             </div>
                             <div className="relative h-[300px] min-h-[250px]">
                                 <img
+                                    loading="lazy"
                                     src="/images/home/touse6.png"
                                     alt="Aviana placeholder image 2"
                                     className="absolute inset-0 size-full object-cover"

@@ -34,6 +34,7 @@ export function Layout410() {
                         </div>
                         <div className="order-last flex flex-col items-center justify-center md:order-first">
                             <img
+                                loading="lazy"
                                 src="/images/our-services/img3.jpeg"
                                 alt="Aviana Service Image 1"
                                 className="rounded-none"
@@ -59,6 +60,7 @@ export function Layout410() {
                         </div>
                         <div className="order-last h-full w-full md:order-last">
                             <img
+                                loading="lazy"
                                 src="/images/our-services/img4.png"
                                 alt="Aviana Service Image 2"
                                 className="w-full h-full object-cover rounded-none"
@@ -83,6 +85,7 @@ export function Layout410() {
                         </div>
                         <div className="order-last h-full w-full md:order-first">
                             <img
+                                loading="lazy"
                                 src="/images/our-services/img2.png"
                                 alt="Aviana Service Image 3"
                                 className="w-full h-full object-cover rounded-none"
@@ -106,6 +109,7 @@ export function Layout410() {
                         </div>
                         <div className="order-last flex flex-col items-center justify-center md:order-last">
                             <img
+                                loading="lazy"
                                 src="/images/our-services/img1.jpeg"
                                 alt="Aviana Service Image 4"
                                 className="rounded-none"
