@@ -29,9 +29,9 @@ export function Logo6() {
                         display: none;
                     }
                 `}</style>
-                <h1 className="mx-auto mb-6 w-full max-w-lg text-center text-sm font-bold leading-[1.2] md:mb-8 md:text-base md:leading-[1.2] lg:mb-10">
+                <h2 className="mx-auto mb-6 w-full max-w-lg text-center text-sm font-bold leading-[1.2] md:mb-8 md:text-base md:leading-[1.2] lg:mb-10">
                     Trusted by the world's best organizations
-                </h1>
+                </h2>
                 <div
                     ref={scrollRef}
                     className="flex overflow-x-auto gap-6 pb-2 scroll-smooth scrollbar-hide"
@@ -43,70 +43,80 @@ export function Logo6() {
                         <img
                             src="/images/about-us/mahe.jpeg"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="Mahe Logo"
+                            alt="Mahe Manipal Logo - Corporate Training Client"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/log9.jpeg"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="Logo 2"
+                            alt="Log9 Materials Logo - Leadership Development Client"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/gal.jpeg"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="Logo 3"
+                            alt="Galabar Logo - Soft Skills Training Client"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/ot.jpeg"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="Logo 4"
+                            alt="OT Logo - Executive Presentation Training Client"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/gims.jpeg"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="GIMS Logo"
+                            alt="GIMS Logo - Institutional Training Partner"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/del.jpeg"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="DEL Logo"
+                            alt="DEL Logo - Corporate Coaching Client"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/jp.jpeg"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="JP Logo"
+                            alt="JP Logo - Business Communication Training Client"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/pre.jpeg"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="PRE Logo"
+                            alt="PRE Logo - Performance Enhancement Client"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/itars.png"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="Itars Logo"
+                            alt="Itars Logo - Leadership Workshops"
+                            loading="lazy"
                         />
                     </div>
                     <div className="flex-none w-48 h-28 flex items-center justify-center">
                         <img
                             src="/images/about-us/mentora.png"
                             className="w-full h-full object-contain mix-blend-multiply"
-                            alt="Mentora Logo"
+                            alt="Mentora Logo - Training & Development Partner"
+                            loading="lazy"
                         />
                     </div>
                 </div>

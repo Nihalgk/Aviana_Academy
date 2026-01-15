@@ -50,7 +50,8 @@ export function Layout423() {
                             <div className="absolute inset-0 bg-black/50" />
                             <img
                                 src="/images/home/touse1.png"
-                                alt="Executive development programs"
+                                alt="Corporate Training Workshop - Leadership & Innovation"
+                                loading="lazy"
                                 className="size-full object-cover"
                             />
                         </div>
@@ -109,7 +110,8 @@ export function Layout423() {
                             <div className="absolute inset-0 bg-black/50" />
                             <img
                                 src="/images/home/touse2.jpeg"
-                                alt="Aviana placeholder image 2"
+                                alt="Communication Skills Training - Speaking & Listening"
+                                loading="lazy"
                                 className="size-full object-cover"
                             />
                         </div>
@@ -168,7 +170,8 @@ export function Layout423() {
                             <div className="absolute inset-0 bg-black/50" />
                             <img
                                 src="/images/home/touse3.jpeg"
-                                alt="Aviana placeholder image 3"
+                                alt="Persona Enhancement & Executive Presence Coaching"
+                                loading="lazy"
                                 className="size-full object-cover"
                             />
                         </div>

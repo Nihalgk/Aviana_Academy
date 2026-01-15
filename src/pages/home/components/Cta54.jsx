@@ -32,7 +32,8 @@ export function Cta54() {
                     <img
                         src="/images/home/cta1.jpeg"
                         className="size-full object-cover object-[center_80%]"
-                        alt="Aviana placeholder image"
+                        alt="Team Collaboration and Leadership Discussion"
+                        loading="lazy"
                         style={{ filter: "contrast(1.1) saturate(1.1)" }}
                     />
                     <div className="absolute inset-0 bg-black/30" />

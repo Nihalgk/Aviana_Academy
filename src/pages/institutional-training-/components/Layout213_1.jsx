@@ -20,7 +20,7 @@ export function Layout213_1() {
 
 
                         <div className="mt-8">
-                            <h3 className="mb-3 text-2xl font-bold md:text-3xl">Train the Trainer (TTT)</h3>
+                            <h2 className="mb-3 text-2xl font-bold md:text-3xl">Train the Trainer (TTT)</h2>
                             <p className="mb-4">
                                 We equip trainers and facilitators with the skills to design, deliver, and evaluate impactful learning experiences across academic and professional settings.
                             </p>

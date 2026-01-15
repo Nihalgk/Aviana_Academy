@@ -25,7 +25,8 @@ export function Team12() {
                         <div className="relative mb-5 size-full overflow-hidden md:mb-6">
                             <img
                                 src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                                alt="Aviana placeholder image"
+                                alt="James Mitchell - Founder & CEO - Aviana Academy Expert"
+                                loading="lazy"
                                 className="aspect-[3/2] size-full object-cover"
                             />
                         </div>
@@ -55,7 +56,8 @@ export function Team12() {
                         <div className="relative mb-5 size-full overflow-hidden md:mb-6">
                             <img
                                 src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                                alt="Aviana placeholder image"
+                                alt="Sarah Chen - Chief Learning Officer - Aviana Academy Expert"
+                                loading="lazy"
                                 className="aspect-[3/2] size-full object-cover"
                             />
                         </div>
@@ -83,7 +85,8 @@ export function Team12() {
                         <div className="relative mb-5 size-full overflow-hidden md:mb-6">
                             <img
                                 src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                                alt="Aviana placeholder image"
+                                alt="Marcus Rodriguez - Head of Operations - Aviana Academy Expert"
+                                loading="lazy"
                                 className="aspect-[3/2] size-full object-cover"
                             />
                         </div>
@@ -113,7 +116,8 @@ export function Team12() {
                         <div className="relative mb-5 size-full overflow-hidden md:mb-6">
                             <img
                                 src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                                alt="Relume placeholder image"
+                                alt="Elena Vasquez - Senior Coach - Aviana Academy Expert"
+                                loading="lazy"
                                 className="aspect-[3/2] size-full object-cover"
                             />
                         </div>

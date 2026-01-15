@@ -58,7 +58,7 @@ const useNavbarLogic = () => {
 export function Navbar14() {
     const useActive = useNavbarLogic();
     return (
-        <section
+        <header
             id="navbar"
             className="sticky top-0 z-[1000] mx-auto mt-5 flex w-full bg-transparent px-[5%] md:mt-6 lg:mx-[5%] lg:w-auto lg:px-0"
         >
@@ -254,6 +254,6 @@ export function Navbar14() {
                     </motion.div>
                 </motion.div>
             </div>
-        </section>
+        </header>
     );
 }

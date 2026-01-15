@@ -14,14 +14,16 @@ export default function Page() {
     return (
         <div>
             <Navbar14 />
-            <Header98 />
-            <Layout423 />
-            <Layout121 />
-            <Layout369 />
-            <Stats27 />
-            <Logo6 />
-            <Gallery15 />
-            <Cta54 />
+            <main>
+                <Header98 />
+                <Layout423 />
+                <Layout121 />
+                <Layout369 />
+                <Stats27 />
+                <Logo6 />
+                <Gallery15 />
+                <Cta54 />
+            </main>
             <Footer1 />
         </div>
     );

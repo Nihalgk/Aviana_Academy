@@ -48,9 +48,9 @@ export function Layout121() {
                                 </div>
                             </div>
                             <div className="py-10">
-                                <h6 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
+                                <h3 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
                                     Identify
-                                </h6>
+                                </h3>
                                 <p>
                                     We decode the gap between where you are and where you need to
                                     be.
@@ -68,9 +68,9 @@ export function Layout121() {
                                 </div>
                             </div>
                             <div className="py-10">
-                                <h6 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
+                                <h3 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
                                     Architect
-                                </h6>
+                                </h3>
                                 <p>
                                     We blueprint a custom strategy aligned with your goals and
                                     personal brand.
@@ -88,9 +88,9 @@ export function Layout121() {
                                 </div>
                             </div>
                             <div className="py-10">
-                                <h6 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
+                                <h3 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
                                     Empower
-                                </h6>
+                                </h3>
                                 <p>
                                     Immersive workshops and coaching embed new behaviors through
                                     practice and simulation.
@@ -108,9 +108,9 @@ export function Layout121() {
                                 </div>
                             </div>
                             <div className="py-10">
-                                <h6 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
+                                <h3 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
                                     Ascend
-                                </h6>
+                                </h3>
                                 <p>
                                     We measure the shift in confidence and capability, ensuring
                                     sustainable transformation.

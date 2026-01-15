@@ -9,6 +9,7 @@ import {
 } from "@relume_io/relume-ui";
 import React from "react";
 import { RxPlus } from "react-icons/rx";
+import { Link } from "react-router-dom";
 
 export function Faq6() {
     return (
@@ -22,11 +23,11 @@ export function Faq6() {
                     discuss which program fits your goals.
                 </p>
                 <div className="mt-6 md:mt-8">
-                    <a href="/contact">
+                    <Link to="/contact">
                         <Button title="Contact" variant="secondary">
                             Contact
                         </Button>
-                    </a>
+                    </Link>
                 </div>
                 <Accordion
                     type="multiple"

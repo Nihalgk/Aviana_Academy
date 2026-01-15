@@ -36,7 +36,7 @@ export function Layout410() {
                             <img
                                 loading="lazy"
                                 src="/images/our-services/img3.jpeg"
-                                alt="Aviana Service Image 1"
+                                alt="Corporate Training Programs - Leadership & Team Building"
                                 className="rounded-none"
                             />
                         </div>
@@ -62,7 +62,7 @@ export function Layout410() {
                             <img
                                 loading="lazy"
                                 src="/images/our-services/img4.png"
-                                alt="Aviana Service Image 2"
+                                alt="Institutional Training for Students & Faculty"
                                 className="w-full h-full object-cover rounded-none"
                             />
                         </div>
@@ -87,7 +87,7 @@ export function Layout410() {
                             <img
                                 loading="lazy"
                                 src="/images/our-services/img2.png"
-                                alt="Aviana Service Image 3"
+                                alt="Individual Coaching & Professional Development"
                                 className="w-full h-full object-cover rounded-none"
                             />
                         </div>
@@ -111,7 +111,7 @@ export function Layout410() {
                             <img
                                 loading="lazy"
                                 src="/images/our-services/img1.jpeg"
-                                alt="Aviana Service Image 4"
+                                alt="Personal Branding & Image Transformation"
                                 className="rounded-none"
                             />
                         </div>

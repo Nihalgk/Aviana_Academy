@@ -65,7 +65,8 @@ export function Gallery15() {
                                     <div className="relative w-full pt-[66.66%]">
                                         <img
                                             src="/images/home/gal4.jpg"
-                                            alt="Aviana Gallery Image 1"
+                                            alt="Aviana Academy Corporate Training Workshop"
+                                            loading="lazy"
                                             className="absolute inset-0 size-full object-cover object-[50%_25%]"
                                         />
                                     </div>
@@ -74,7 +75,8 @@ export function Gallery15() {
                                     <div className="relative w-full pt-[66.66%]">
                                         <img
                                             src="/images/home/gal5.jpg"
-                                            alt="Aviana Gallery Image 2"
+                                            alt="Leadership Training Session Group Photo"
+                                            loading="lazy"
                                             className="absolute inset-0 size-full object-cover"
                                         />
                                     </div>
@@ -83,7 +85,8 @@ export function Gallery15() {
                                     <div className="relative w-full pt-[66.66%]">
                                         <img
                                             src="/images/home/gal3.jpg"
-                                            alt="Aviana Gallery Image 3"
+                                            alt="Soft Skills Training - Interactive Learning"
+                                            loading="lazy"
                                             className="absolute inset-0 size-full object-cover"
                                         />
                                     </div>

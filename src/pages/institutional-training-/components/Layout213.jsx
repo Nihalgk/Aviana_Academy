@@ -21,7 +21,7 @@ export function Layout213() {
 
 
                         <div className="mt-8">
-                            <h3 className="mb-3 text-2xl font-bold md:text-3xl">Integrity, Ethics & Growth Mindset</h3>
+                            <h2 className="mb-3 text-2xl font-bold md:text-3xl">Integrity, Ethics & Growth Mindset</h2>
                             <p className="mb-4">
                                 We help students build strong ethical foundations and a growth-oriented mindset that guide responsible decision-making, resilience, and long-term professional success.
                             </p>

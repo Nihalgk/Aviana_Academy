@@ -16,7 +16,7 @@ const useForm = () => {
     };
     const handleSubmit = (event) => {
         event.preventDefault();
-        console.log({ email });
+
     };
     return {
         email,

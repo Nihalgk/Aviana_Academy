@@ -39,7 +39,7 @@ export function Layout369() {
                                 <img
                                     loading="lazy"
                                     src="/images/home/im2.jpeg"
-                                    alt="Aviana placeholder image 3"
+                                    alt="Train the Trainer Workshop Bangalore"
                                     className="size-full object-cover"
                                 />
                             </div>
@@ -60,7 +60,7 @@ export function Layout369() {
                                 <img
                                     loading="lazy"
                                     src="/images/home/touse5.png"
-                                    alt="Aviana placeholder image 1"
+                                    alt="Behavioral Coaching Session - FIRO-B Assessment"
                                     className="absolute inset-0 size-full object-cover"
                                 />
                             </div>
@@ -81,7 +81,7 @@ export function Layout369() {
                                 <img
                                     loading="lazy"
                                     src="/images/home/touse6.png"
-                                    alt="Aviana placeholder image 2"
+                                    alt="Professional Styling & Corporate Grooming Transformation"
                                     className="absolute inset-0 size-full object-cover"
                                 />
                             </div>

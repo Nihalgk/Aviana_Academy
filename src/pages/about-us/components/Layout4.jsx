@@ -3,6 +3,7 @@
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
 import { RxChevronRight } from "react-icons/rx";
+import { Link } from "react-router-dom";
 
 export function Layout4() {
     return (
@@ -43,7 +44,7 @@ export function Layout4() {
                             </div>
                         </div>
                         <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-                            <a href="/contact">
+                            <Link to="/contact">
                                 <Button
                                     title="Contact"
                                     variant="link"
@@ -52,7 +53,7 @@ export function Layout4() {
                                 >
                                     Contact
                                 </Button>
-                            </a>
+                            </Link>
                         </div>
                     </div>
                     <div>
