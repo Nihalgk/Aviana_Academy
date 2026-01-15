@@ -11,7 +11,7 @@ export function Cta31() {
                 <img
                     src="/images/Gallery/zz1.jpeg"
                     className="size-full object-cover"
-                    alt="Aviana placeholder image"
+                    alt="Aviana Academy Professional Development"
                 />
             </div>
         </section>

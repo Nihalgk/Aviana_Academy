@@ -65,7 +65,7 @@ export function Gallery17() {
                                     <div className="w-full">
                                         <img
                                             src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                                            alt="Aviana placeholder image 1"
+                                            alt="Soft Skills Training Session"
                                             className="aspect-square size-full object-cover"
                                         />
                                     </div>
@@ -74,7 +74,7 @@ export function Gallery17() {
                                     <div className="w-full">
                                         <img
                                             src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                                            alt="Aviana placeholder image 2"
+                                            alt="Aviana Academy Professional Development"
                                             className="aspect-square size-full object-cover"
                                         />
                                     </div>
@@ -83,7 +83,7 @@ export function Gallery17() {
                                     <div className="w-full">
                                         <img
                                             src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                                            alt="Aviana placeholder image 3"
+                                            alt="Corporate Leadership Workshop"
                                             className="aspect-square size-full object-cover"
                                         />
                                     </div>
@@ -92,7 +92,7 @@ export function Gallery17() {
                                     <div className="w-full">
                                         <img
                                             src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                                            alt="Aviana placeholder image 4"
+                                            alt="Executive Image Consulting"
                                             className="aspect-square size-full object-cover"
                                         />
                                     </div>

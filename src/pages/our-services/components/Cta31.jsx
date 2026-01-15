@@ -25,7 +25,7 @@ export function Cta31() {
                 <img
                     src="/images/our-services/img5.jpeg"
                     className="w-full object-cover rounded-none"
-                    alt="Aviana placeholder image"
+                    alt="Aviana Academy Professional Development"
                     style={{ clipPath: "inset(0 0 30% 0)" }}
                 />
             </div>

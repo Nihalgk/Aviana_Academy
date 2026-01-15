@@ -42,14 +42,14 @@ export function Layout121() {
                                 <div className="relative z-10 -mt-4 bg-white px-2 py-4 md:px-4">
                                     <img
                                         src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                                        alt="Relume icon 1"
+                                        alt="Gap Analysis icon"
                                         className="size-12"
                                     />
                                 </div>
                             </div>
                             <div className="py-10">
                                 <h3 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
-                                    Identify
+                                    Gap Analysis
                                 </h3>
                                 <p>
                                     We decode the gap between where you are and where you need to
@@ -62,14 +62,14 @@ export function Layout121() {
                                 <div className="relative z-10 -mt-4 bg-white px-2 py-4 md:px-4">
                                     <img
                                         src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                                        alt="Relume icon 2"
+                                        alt="Strategic Blueprinting icon"
                                         className="size-12"
                                     />
                                 </div>
                             </div>
                             <div className="py-10">
                                 <h3 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
-                                    Architect
+                                    Strategic Blueprinting
                                 </h3>
                                 <p>
                                     We blueprint a custom strategy aligned with your goals and
@@ -82,14 +82,14 @@ export function Layout121() {
                                 <div className="relative z-10 -mt-4 bg-white px-2 py-4 md:px-4">
                                     <img
                                         src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                                        alt="Relume icon 3"
+                                        alt="Immersive Coaching icon"
                                         className="size-12"
                                     />
                                 </div>
                             </div>
                             <div className="py-10">
                                 <h3 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
-                                    Empower
+                                    Immersive Coaching
                                 </h3>
                                 <p>
                                     Immersive workshops and coaching embed new behaviors through
@@ -102,14 +102,14 @@ export function Layout121() {
                                 <div className="relative z-10 -mt-4 bg-white px-2 py-4 md:px-4">
                                     <img
                                         src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                                        alt="Relume icon 4"
+                                        alt="Sustainable Transformation icon"
                                         className="size-12"
                                     />
                                 </div>
                             </div>
                             <div className="py-10">
                                 <h3 className="mb-3 text-md font-bold leading-[1.4] md:mb-4 md:text-xl">
-                                    Ascend
+                                    Sustainable Transformation
                                 </h3>
                                 <p>
                                     We measure the shift in confidence and capability, ensuring

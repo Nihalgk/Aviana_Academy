@@ -7,6 +7,7 @@ import {
     BiLogoFacebookCircle,
     BiLogoInstagram,
     BiLogoLinkedinSquare,
+    BiLogoWhatsapp,
 } from "react-icons/bi";
 
 const useForm = () => {
@@ -40,10 +41,10 @@ export function Footer1() {
                             />
                         </Link>
                         <p className="mb-2 font-bold">
-                            Empowering Skills, Enabling Success
+                            Join our community for exclusive leadership insights and training updates
                         </p>
                         <p className="mb-5 md:mb-6">
-                            Aviana Academy is a trusted soft skills and executive presence training partner in Bangalore, enabling professionals to grow with confidence, clarity, and credibility.
+                            Aviana Academy is a trusted executive presence and soft skills training partner in Bangalore, enabling professionals to grow with confidence and credibility.
                         </p>
                         <div className="w-full max-w-md">
                             <form
@@ -129,9 +130,18 @@ export function Footer1() {
                                 <div>
                                     <p className="font-semibold mb-1">Phone</p>
                                     <div className="flex flex-col gap-1">
+                                        <p className="font-semibold text-xs text-neutral-400 mt-1">Corporate Inquiries</p>
                                         <a href="tel:+919731532666" className="hover:text-neutral-300">+91 9731532666</a>
+                                        <p className="font-semibold text-xs text-neutral-400 mt-2">General Support</p>
                                         <a href="tel:+919741904555" className="hover:text-neutral-300">+91 9741904555</a>
                                         <a href="tel:+919845739709" className="hover:text-neutral-300">+91 9845739709</a>
+                                    </div>
+                                    <div className="mt-4">
+                                        <a href="https://wa.me/919731532666" target="_blank" rel="noopener noreferrer">
+                                            <Button variant="secondary" size="sm" iconLeft={<BiLogoWhatsapp className="size-5" />}>
+                                                Contact on WhatsApp
+                                            </Button>
+                                        </a>
                                     </div>
                                 </div>
                             </div>

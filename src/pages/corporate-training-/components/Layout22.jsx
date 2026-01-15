@@ -37,7 +37,7 @@ export function Layout22() {
                         <img
                             src="/images/Coporate Training/doc4.jpeg"
                             className="w-full h-[450px] md:h-[600px] object-cover"
-                            alt="Aviana placeholder image"
+                            alt="Corporate Leadership Workshop"
                         />
                     </div>
                 </div>

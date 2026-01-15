@@ -13,7 +13,7 @@ export function Layout210() {
                         <img
                             src="/images/Coporate Training/doc2.jpeg"
                             className="w-full h-full min-h-[650px] object-cover"
-                            alt="Aviana placeholder image"
+                            alt="Corporate Leadership Workshop"
                         />
                     </div>
                     <div className="order-1 md:order-2">

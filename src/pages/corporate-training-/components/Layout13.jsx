@@ -37,7 +37,7 @@ export function Layout13() {
                         <img
                             src="/images/Coporate Training/doc3.jpeg"
                             className="w-full object-cover"
-                            alt="Aviana placeholder image"
+                            alt="Corporate Leadership Workshop"
                         />
                     </div>
                 </div>

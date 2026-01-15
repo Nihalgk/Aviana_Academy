@@ -17,13 +17,7 @@ export function Layout4() {
                         </h1>
                         <div className="mb-6 md:mb-8 md:text-md space-y-4">
                             <p>
-                                Vani Satish is a Behavioural & Transformation Coach and Certified Soft Skills Trainer with over 8+ years of experience in developing communication, leadership, and professional presence across individuals, institutions, and corporate organizations. She is known for designing learning experiences that are practical, engaging, and rooted in real behavioural change.
-                            </p>
-                            <p>
-                                With a strong foundation in FIRO-B, Design Thinking, and Instructional Design, she blends behavioural science with experiential learning to help professionals express clearly, connect meaningfully, and perform confidently. Her work focuses on enabling individuals to not just learn skills, but practice and live them in everyday professional settings.
-                            </p>
-                            <p>
-                                Beyond training, she is also an Image Consultant and Executive Coach, helping professionals elevate both their presence and performance. Through Aviana Academy, she continues to create structured, empathetic, and impactful learning journeys that drive lasting transformation.
+                                Founded by a visionary expert in Image Management and Soft Skills, Aviana Academy was born from a passion for bridging the gap between technical competence and professional presence. With a legacy of training 5000+ professionals, our founder brings a globally benchmarked approach to behavioral coaching, helping leaders across Fortune 500 companies and prestigious institutions like MAHE and GIMS master the art of executive influence.
                             </p>
                         </div>
                         <div className="py-2">

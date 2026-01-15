@@ -66,7 +66,7 @@ export function Layout423() {
                                 </h3>
                                 <div className="lg:hidden">
                                     <p className="mt-5 text-text-alternative md:mt-6">
-                                        Drive performance and culture change with engaging, industry-relevant corporate training. Integrate design thinking approaches to inspire innovation, problem-solving, and a culture of continuous improvement.
+                                        Drive performance and culture change with engaging, industry-relevant corporate training.
                                     </p>
 
                                 </div>
@@ -84,7 +84,7 @@ export function Layout423() {
                                     transition={{ duration: 0.3, ease: "easeInOut" }}
                                 >
                                     <p className="mt-5 text-text-alternative md:mt-6">
-                                        Drive performance and culture change with engaging, industry-relevant corporate training. Integrate design thinking approaches to inspire innovation, problem-solving, and a culture of continuous improvement.
+                                        Drive performance and organizational culture change with industry-relevant corporate training. We integrate design thinking to inspire innovation, advanced problem-solving, and a culture of continuous improvement across all leadership levels.
                                     </p>
                                     <div className="mt-6 md:mt-8">
                                         <Button
@@ -93,7 +93,7 @@ export function Layout423() {
                                             iconRight={<RxChevronRight />}
                                             className="text-text-alternative"
                                         >
-                                            Button
+                                            Explore Programs
                                         </Button>
                                     </div>
                                 </motion.div>
@@ -153,7 +153,7 @@ export function Layout423() {
                                             iconRight={<RxChevronRight />}
                                             className="text-text-alternative"
                                         >
-                                            Button
+                                            Explore Programs
                                         </Button>
                                     </div>
                                 </motion.div>
@@ -213,7 +213,7 @@ export function Layout423() {
                                             iconRight={<RxChevronRight />}
                                             className="text-text-alternative"
                                         >
-                                            Button
+                                            Explore Programs
                                         </Button>
                                     </div>
                                 </motion.div>

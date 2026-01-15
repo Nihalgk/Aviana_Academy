@@ -49,7 +49,7 @@ export function Layout522() {
                             <img
                                 src="/images/INDIVIDUAL TRAINING/CD1.jpeg"
                                 className="size-full object-cover"
-                                alt="Aviana placeholder image"
+                                alt="Executive Image Consulting"
                             />
                         </div>
                         <div className="relative z-10 flex flex-1 flex-col justify-end">

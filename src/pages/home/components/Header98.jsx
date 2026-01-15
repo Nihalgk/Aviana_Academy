@@ -29,7 +29,7 @@ export const Header98 = (props) => {
 
 export const Header98Defaults = {
     tagline: "Empowering Skills, Enabling Success",
-    heading: "Aviana Academy | Global Training & Development",
+    heading: "Aviana Academy: Premier Soft Skills & Corporate Training in Bangalore",
     description: (
         <>
             <p className="mb-2">

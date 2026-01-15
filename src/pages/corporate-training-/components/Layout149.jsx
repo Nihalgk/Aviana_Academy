@@ -42,7 +42,7 @@ export function Layout149() {
                     <img
                         src="/images/Coporate Training/doc2.jpeg"
                         className="size-full object-cover"
-                        alt="Aviana placeholder image"
+                        alt="Corporate Leadership Workshop"
                     />
                 </div>
             </div>

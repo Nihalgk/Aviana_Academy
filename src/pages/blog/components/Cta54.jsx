@@ -28,7 +28,7 @@ export function Cta54() {
                     <img
                         src="/images/blog/cof1.jpeg"
                         className="size-full object-cover object-bottom"
-                        alt="Aviana placeholder image"
+                        alt="Aviana Academy Professional Development"
                     />
                     <div className="absolute inset-0 bg-black/50" />
                 </div>

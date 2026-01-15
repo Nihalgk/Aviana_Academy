@@ -39,7 +39,7 @@ export function Cta54() {
                     <img
                         src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
                         className="size-full object-cover"
-                        alt="Relume placeholder image"
+                        alt="Aviana Academy Professional Development"
                     />
                     <div className="absolute inset-0 bg-black/50" />
                 </div>

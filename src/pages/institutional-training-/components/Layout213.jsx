@@ -13,7 +13,7 @@ export function Layout213() {
                         <img
                             src="/images/Institutional training/int1.jpeg"
                             className="w-full h-[450px] object-cover"
-                            alt="Aviana placeholder image"
+                            alt="Soft Skills Training Session"
                             style={{ clipPath: "inset(3% 0 15% 0 round 15px)" }}
                         />
                     </div>
