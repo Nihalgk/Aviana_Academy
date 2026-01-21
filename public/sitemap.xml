@@ -8,12 +8,28 @@
   <url>
     <loc>https://www.avianaacademy.in/our-services</loc>
     <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.avianaacademy.in/about-us</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.avianaacademy.in/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.avianaacademy.in/gallery</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.avianaacademy.in/corporate-training</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.avianaacademy.in/institutional-training</loc>
@@ -26,8 +42,29 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.avianaacademy.in/about-us</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.avianaacademy.in/image-management</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.avianaacademy.in/blog</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.avianaacademy.in/blog/corporate-communication</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.avianaacademy.in/blog/executive-presence</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.avianaacademy.in/blog/personal-brand</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
