@@ -162,7 +162,7 @@ export function Footer1() {
                                     </a>
                                 </li>
                                 <li className="py-2 text-sm">
-                                    <a href="https://www.linkedin.com/in/vani-satish-059a51204/" className="flex items-center gap-3">
+                                    <a href="https://www.linkedin.com/in/aviana-academy-059a51204/" className="flex items-center gap-3">
                                         <BiLogoLinkedinSquare className="size-6" />
                                         <span>LinkedIn</span>
                                     </a>

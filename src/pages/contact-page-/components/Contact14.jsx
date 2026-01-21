@@ -58,8 +58,13 @@ export function Contact14() {
                                 Office
                             </h3>
                             <p className="mb-2">
-                                Tower 1, 5th Floor, Wework, Manyatha NXT, Manayata Tech Park,
-                                Nagavara, Bengaluru, Karnataka 560045
+                                Aviana Academy<br />
+                                Unit No. 2201A, 22nd Floor<br />
+                                Regus, World Trade Centre<br />
+                                Brigade Gateway Campus<br />
+                                Dr. Rajkumar Road, Malleswaram (W)<br />
+                                Bengaluru – 560055<br />
+                                Karnataka, India
                             </p>
 
                         </div>
@@ -67,7 +72,7 @@ export function Contact14() {
                     <div className="w-full">
                         <iframe
                             className="size-full h-[400px] w-full md:h-[516px]"
-                            src="https://maps.google.com/maps?q=WeWork%20Manyata%20NXT%2C%20Tower%201%2C%20Bengaluru&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                            src="https://maps.google.com/maps?q=Regus%2C%20World%20Trade%20Centre%2C%20Brigade%20Gateway%20Campus%2C%20Bengaluru&t=&z=15&ie=UTF8&iwloc=&output=embed"
                             style={{ border: 0 }}
                             allowFullScreen=""
                             loading="lazy"
