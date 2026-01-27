@@ -127,11 +127,11 @@ export function Layout410() {
                         </div>
                     </div>
                     <div
-                        className="grid grid-cols-1 overflow-hidden border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:min-h-[70vh] md:grid-cols-2 z-40"
+                        className="grid grid-cols-1 overflow-hidden border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:h-auto md:grid-cols-2 z-40"
                         style={{ top: "24vh" }}
                     >
                         <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-8 md:order-first">
-                            <h2 className="mb-5 text-4xl font-bold leading-[1.2] md:mb-6 md:text-5xl lg:text-6xl">
+                            <h2 className="mb-5 text-3xl font-bold leading-[1.2] md:mb-6 md:text-4xl lg:text-5xl">
                                 Executive Presence, Personal Branding & Image Transformation
                             </h2>
                             <p className="mb-6">
@@ -157,7 +157,7 @@ export function Layout410() {
                                 loading="lazy"
                                 src="/images/our-services/img1.jpeg"
                                 alt="Personal Branding & Image Transformation"
-                                className="w-full h-full object-cover object-[50%_30%] rounded-none"
+                                className="w-full h-auto object-cover object-center rounded-none"
                             />
                         </div>
                     </div>
