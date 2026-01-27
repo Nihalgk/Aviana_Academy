@@ -2,6 +2,7 @@
 
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
+import { Link } from "react-router-dom";
 import { RxChevronRight } from "react-icons/rx";
 
 export function Layout210() {
@@ -21,6 +22,9 @@ export function Layout210() {
                             Team Building That Creates Real Cohesion
                         </h2>
                         <p className="mb-5 md:mb-6 md:text-md">
+                            Designed for teams that need stronger trust, role clarity, and collaboration—not just offsites.
+                        </p>
+                        <p className="mb-5 md:mb-6 md:text-md">
                             Strong teams are built through trust, clarity, and shared ownership.
                         </p>
                         <p className="mb-5 md:mb-6 md:text-md">
@@ -29,7 +33,7 @@ export function Layout210() {
                             relationships.
                         </p>
                         <div className="py-2">
-                            <h3 className="mb-3 font-bold text-md">Focus Areas</h3>
+                            <h3 className="mb-3 font-bold text-md">Outcomes Team Experience</h3>
                             <ul className="list-disc pl-5 space-y-2">
                                 <li>Team Communication & Collaboration</li>
                                 <li>Interpersonal Skills (FIRO-B Based)</li>
@@ -37,8 +41,15 @@ export function Layout210() {
                                 <li>Cross-Functional Effectiveness</li>
                             </ul>
                         </div>
-
+                        <div className="mt-6 md:mt-8">
+                            <Link to="/contact">
+                                <Button variant="secondary" title="Design a Team-Building Workshop">
+                                    🔵 Design a Team-Building Workshop
+                                </Button>
+                            </Link>
+                        </div>
                     </div>
+
                 </div>
             </div>
         </section>

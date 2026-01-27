@@ -33,10 +33,10 @@ export function Layout423() {
                 <div className="mx-auto mb-12 w-full max-w-lg text-center md:mb-18 lg:mb-20">
 
                     <h2 className="rb-5 mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl">
-                        What we offer
+                        Training & Coaching Solutions We Offer
                     </h2>
                     <p className="md:text-md">
-                        Comprehensive programs designed for serious professionals
+                        Practical programs that help professionals communicate clearly, lead confidently and perform with impact in the workplace.
                     </p>
                 </div>
                 <div className="flex flex-col justify-between gap-6 md:gap-8 lg:flex-row">

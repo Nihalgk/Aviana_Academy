@@ -2,6 +2,7 @@
 
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
+import { Link } from "react-router-dom";
 import { RxChevronRight } from "react-icons/rx";
 
 export function Layout22() {
@@ -10,9 +11,13 @@ export function Layout22() {
             <div className="container">
                 <div className="grid grid-cols-1 gap-y-12 md:grid-cols-2 md:items-center md:gap-x-12 lg:gap-x-20">
                     <div>
+                        <p className="mb-2 font-semibold text-neutral-500">Ideal for first-time managers, mid-level leaders, and growing teams</p>
                         <h2 className="rb-5 mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl">
                             Management Skills for Modern Teams
                         </h2>
+                        <p className="md:text-md mb-4">
+                            Many managers struggle with people conversations, accountability, and prioritization. Our programs help managers lead with confidence, clarity, and consistency.
+                        </p>
                         <p className="md:text-md mb-4">
                             Managers translate strategy into execution. We equip them with
                             practical tools, people skills, and leadership confidence that shows
@@ -30,6 +35,13 @@ export function Layout22() {
                                 <li>Conflict Resolution & Negotiation</li>
                                 <li>Time, Stress & Priority Management</li>
                             </ul>
+                        </div>
+                        <div className="mt-6 md:mt-8">
+                            <Link to="/contact">
+                                <Button variant="secondary" title="Explore Management Training Options">
+                                    🔵 Explore Management Training Options
+                                </Button>
+                            </Link>
                         </div>
 
                     </div>

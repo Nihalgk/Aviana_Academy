@@ -2,6 +2,7 @@
 
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
+import { Link } from "react-router-dom";
 import { RxChevronRight } from "react-icons/rx";
 
 export function Layout13() {
@@ -10,6 +11,7 @@ export function Layout13() {
             <div className="container">
                 <div className="grid grid-cols-1 gap-y-12 md:grid-flow-row md:grid-cols-2 md:items-center md:gap-x-12 lg:gap-x-20">
                     <div>
+                        <p className="mb-2 font-semibold text-neutral-500">For Senior Leaders, CXOs & High-Potential Managers</p>
                         <h2 className="rb-5 mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl">
                             Executive Leadership Development for Vision & Influence
                         </h2>
@@ -22,6 +24,16 @@ export function Layout13() {
                             We develop leaders who think strategically, communicate decisively,
                             and model the behaviors that drive trust and performance.
                         </p>
+
+                        <div className="mb-6 py-2">
+                            <h3 className="mb-3 font-bold text-md">Business Outcomes:</h3>
+                            <ul className="list-disc pl-5 space-y-2">
+                                <li>Stronger leadership presence and decision-making</li>
+                                <li>Clear, confident executive communication</li>
+                                <li>Higher trust and influence across stakeholders</li>
+                            </ul>
+                        </div>
+
                         <div className="py-2">
                             <h3 className="mb-3 font-bold text-md">Focus Areas</h3>
                             <ul className="list-disc pl-5 space-y-2">
@@ -30,6 +42,14 @@ export function Layout13() {
                                 <li>Emotional Intelligence for Leaders</li>
                                 <li>Leading Change & High-Performance Cultures</li>
                             </ul>
+                        </div>
+
+                        <div className="mt-6 md:mt-8">
+                            <Link to="/contact">
+                                <Button variant="secondary" title="Discuss Leadership Development Programs">
+                                    🔵 Discuss Leadership Development Programs
+                                </Button>
+                            </Link>
                         </div>
 
                     </div>

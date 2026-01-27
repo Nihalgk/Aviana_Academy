@@ -10,7 +10,7 @@ export function Cta54() {
                 <div className="relative z-10 flex flex-col items-center p-8 md:p-12 lg:p-16">
                     <div className="max-w-lg text-center">
                         <h2 className="rb-5 mb-5 text-5xl font-bold text-text-alternative md:mb-6 md:text-7xl lg:text-8xl">
-                            Ready to Build a Stronger Organization?
+                            Let’s Design the Right Corporate Training for Your Teams
                         </h2>
                         <p className="text-text-alternative md:text-md">
                             Start your transformation with Aviana Academy. Our team is ready to
@@ -20,8 +20,8 @@ export function Cta54() {
                     <div className="mx-auto mt-6 max-w-sm md:mt-8">
                         <div className="flex items-center justify-center gap-4">
                             <Link to="/contact">
-                                <Button title="Contact" variant="primary" className="items-center justify-center px-6 py-3">
-                                    Contact
+                                <Button title="Book a Free Consultation" variant="primary" className="items-center justify-center px-6 py-3">
+                                    🔵 Book a Free Consultation
                                 </Button>
                             </Link>
                         </div>

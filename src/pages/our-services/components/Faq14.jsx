@@ -2,6 +2,7 @@
 
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
+import { Link } from "react-router-dom";
 
 export function Faq14() {
     return (
@@ -9,7 +10,7 @@ export function Faq14() {
             <div className="container">
                 <div className="mx-auto mb-12 w-full max-w-lg text-center md:mb-18 lg:mb-20">
                     <h2 className="rb-5 mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl">
-                        Questions
+                        Frequently Asked Questions
                     </h2>
                     <p className="md:text-md">
                         Get answers about how we customize training for your specific needs.
@@ -77,7 +78,17 @@ export function Faq14() {
                         </p>
                     </div>
                 </div>
-
+                <div className="mt-12 flex justify-center md:mt-18 lg:mt-20">
+                    <Link to="/contact">
+                        <Button
+                            variant="secondary"
+                            size="lg"
+                            className="px-8 py-6 text-xl font-semibold shadow-lg transition-all hover:-translate-y-1 hover:shadow-xl border border-neutral-200"
+                        >
+                            🔵 Still have questions? Talk to Us
+                        </Button>
+                    </Link>
+                </div>
             </div>
         </section>
     );

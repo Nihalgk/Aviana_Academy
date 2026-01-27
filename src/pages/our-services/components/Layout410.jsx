@@ -4,6 +4,8 @@ import { Button } from "@relume_io/relume-ui";
 import React from "react";
 import { RxChevronRight } from "react-icons/rx";
 
+import { Link } from "react-router-dom";
+
 export function Layout410() {
     return (
         <section id="aviana" className="px-[5%] py-8 md:py-12 lg:py-14">
@@ -11,26 +13,39 @@ export function Layout410() {
                 <div className="mx-auto mb-12 w-full max-w-lg text-center md:mb-18 lg:mb-20">
 
                     <h1 className="mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl">
-                        What we offer
+                        Our Training & Coaching Solutions
                     </h1>
+                    <p className="md:text-md">
+                        Customised learning interventions for corporates, institutions, and individuals focused on measurable professional growth.
+                    </p>
 
                 </div>
                 <div className="relative grid auto-cols-fr grid-cols-1 gap-6 md:gap-0">
                     <div
-                        className="grid grid-cols-1 content-center overflow-hidden border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:h-[70vh] md:grid-cols-2"
-                        style={{ top: "15%" }}
+                        className="grid grid-cols-1 content-center overflow-hidden border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:min-h-[70vh] md:grid-cols-2 z-10"
+                        style={{ top: "15vh" }}
                     >
-                        <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-12 md:order-last">
+                        <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-8 md:order-last">
+                            <p className="mb-2 font-semibold text-neutral-500">For Organisations & Teams</p>
                             <h2 className="mb-5 text-4xl font-bold leading-[1.2] md:mb-6 md:text-5xl lg:text-6xl">
                                 Corporate training
                             </h2>
-                            <p>
-                                We partner with organisations to deliver customised corporate
-                                training that enhances professional presence, behavioural skills,
-                                and leadership capability driving measurable impact at individual
-                                and team levels.
-                            </p>
-
+                            <div className="mb-6">
+                                <p className="mb-2 font-bold">Corporate Training Outcomes:</p>
+                                <ul className="list-disc pl-5">
+                                    <li>Stronger leadership presence</li>
+                                    <li>Clear, confident workplace communication</li>
+                                    <li>Improved team effectiveness & collaboration</li>
+                                    <li>Behavioural alignment with organisational goals</li>
+                                </ul>
+                            </div>
+                            <div className="mt-4">
+                                <Link to="/corporate-training">
+                                    <Button variant="secondary">
+                                        🔵 Request Corporate Training Details
+                                    </Button>
+                                </Link>
+                            </div>
                         </div>
                         <div className="order-last flex flex-col items-center justify-center md:order-first">
                             <img
@@ -42,21 +57,30 @@ export function Layout410() {
                         </div>
                     </div>
                     <div
-                        className="grid grid-cols-1 border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:h-[70vh] md:grid-cols-2"
-                        style={{ top: "18%" }}
+                        className="grid grid-cols-1 overflow-hidden border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:min-h-[70vh] md:grid-cols-2 z-20"
+                        style={{ top: "18vh" }}
                     >
-                        <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-12 md:order-first">
+                        <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-8 md:order-first">
+                            <p className="mb-2 font-semibold text-neutral-500">For Colleges, Universities & Faculty</p>
                             <h2 className="mb-5 text-4xl font-bold leading-[1.2] md:mb-6 md:text-5xl lg:text-6xl">
                                 Institutional Training
                             </h2>
-                            <p>
-                                Our Institutional Training programmes are designed to equip
-                                students and faculty with essential professional, behavioural,
-                                and workplace readiness skills. We bridge the gap between
-                                academics and real-world expectations through structured,
-                                engaging learning.
-                            </p>
-
+                            <div className="mb-6">
+                                <p className="mb-2 font-bold">Programs Include:</p>
+                                <ul className="list-disc pl-5">
+                                    <li>Campus-to-corporate readiness</li>
+                                    <li>Communication & professional etiquette</li>
+                                    <li>Leadership foundations for students</li>
+                                    <li>Faculty development workshops</li>
+                                </ul>
+                            </div>
+                            <div className="mt-4">
+                                <Link to="/institutional-training">
+                                    <Button variant="secondary">
+                                        🔵 Discuss Institutional Programs
+                                    </Button>
+                                </Link>
+                            </div>
                         </div>
                         <div className="order-last h-full w-full md:order-last">
                             <img
@@ -68,20 +92,30 @@ export function Layout410() {
                         </div>
                     </div>
                     <div
-                        className="grid grid-cols-1 border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:h-[70vh] md:grid-cols-2"
-                        style={{ top: "21%" }}
+                        className="grid grid-cols-1 overflow-hidden border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:min-h-[70vh] md:grid-cols-2 z-30"
+                        style={{ top: "21vh" }}
                     >
-                        <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-12 md:order-last">
+                        <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-8 md:order-last">
+                            <p className="mb-2 font-semibold text-neutral-500">For Working Professionals & Leaders</p>
                             <h2 className="mb-5 text-4xl font-bold leading-[1.2] md:mb-6 md:text-5xl lg:text-6xl">
                                 Individual Coaching
                             </h2>
-                            <p>
-                                Individual Coaching is a one-on-one journey designed to unlock
-                                your potential, strengthen self-awareness, and drive meaningful
-                                behavioural change aligned with your personal and professional
-                                goals.
-                            </p>
-
+                            <div className="mb-6">
+                                <p className="mb-2 font-bold">Key Benefits:</p>
+                                <ul className="list-disc pl-5">
+                                    <li>Build confidence and self-awareness</li>
+                                    <li>Communicate assertively at work</li>
+                                    <li>Navigate career transitions</li>
+                                    <li>Strengthen leadership mindset</li>
+                                </ul>
+                            </div>
+                            <div className="mt-4">
+                                <Link to="/individual-coaching">
+                                    <Button variant="secondary">
+                                        🔵 Book a Coaching Discovery Call
+                                    </Button>
+                                </Link>
+                            </div>
                         </div>
                         <div className="order-last h-full w-full md:order-first">
                             <img
@@ -93,26 +127,37 @@ export function Layout410() {
                         </div>
                     </div>
                     <div
-                        className="grid grid-cols-1 content-center overflow-hidden border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:h-[70vh] md:grid-cols-2"
-                        style={{ top: "24%" }}
+                        className="grid grid-cols-1 overflow-hidden border border-border-primary bg-neutral-white md:sticky md:mb-[15vh] md:min-h-[70vh] md:grid-cols-2 z-40"
+                        style={{ top: "24vh" }}
                     >
-                        <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-12 md:order-first">
+                        <div className="order-first flex flex-col justify-center p-6 md:p-8 lg:p-8 md:order-first">
                             <h2 className="mb-5 text-4xl font-bold leading-[1.2] md:mb-6 md:text-5xl lg:text-6xl">
-                                Personal branding & Image Transformation
+                                Executive Presence, Personal Branding & Image Transformation
                             </h2>
-                            <p>
-                                Project confidence, credibility, and professionalism through our
-                                Image Management and Personal Branding sessions ensuring your
-                                presence aligns with your personal and professional goals.
+                            <p className="mb-6">
+                                Designed for professionals who want their appearance, communication, and presence to align with leadership roles.
                             </p>
-
+                            <div className="mb-6">
+                                <ul className="list-disc pl-5">
+                                    <li>Professional credibility & presence</li>
+                                    <li>Strategic wardrobe & grooming guidance</li>
+                                    <li>Alignment between role, personality & image</li>
+                                </ul>
+                            </div>
+                            <div className="mt-4">
+                                <Link to="/image-management">
+                                    <Button variant="secondary">
+                                        🔵 Explore Executive Presence Program
+                                    </Button>
+                                </Link>
+                            </div>
                         </div>
-                        <div className="order-last flex flex-col items-center justify-center md:order-last">
+                        <div className="order-last h-full w-full md:order-last">
                             <img
                                 loading="lazy"
                                 src="/images/our-services/img1.jpeg"
                                 alt="Personal Branding & Image Transformation"
-                                className="rounded-none"
+                                className="w-full h-full object-cover object-[50%_30%] rounded-none"
                             />
                         </div>
                     </div>

@@ -2,6 +2,7 @@ import React from "react";
 import { Navbar14 } from "./components/Navbar14";
 
 import { Layout410 } from "./components/Layout410";
+import { TrustedStats } from "./components/TrustedStats";
 import { Cta31 } from "./components/Cta31";
 import { Faq14 } from "./components/Faq14";
 
@@ -13,6 +14,7 @@ export default function Page() {
             <Navbar14 />
 
             <Layout410 />
+            <TrustedStats />
             <Faq14 />
             <Cta31 />
 

@@ -9,6 +9,7 @@ import { Logo6 } from "./components/Logo6";
 import { Gallery15 } from "./components/Gallery15";
 import { Cta54 } from "./components/Cta54";
 import { Footer1 } from "./components/Footer1";
+import { FloatingCTA } from "./components/FloatingCTA";
 
 export default function Page() {
     return (
@@ -25,6 +26,7 @@ export default function Page() {
                 <Cta54 />
             </main>
             <Footer1 />
+            <FloatingCTA />
         </div>
     );
 }

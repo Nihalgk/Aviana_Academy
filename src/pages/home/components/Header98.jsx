@@ -1,6 +1,9 @@
 
 import React from "react";
 
+import { Button } from "@relume_io/relume-ui";
+import { Link } from "react-router-dom";
+
 export const Header98 = (props) => {
     const { tagline, heading, description, image } = {
         ...Header98Defaults,
@@ -16,6 +19,13 @@ export const Header98 = (props) => {
                             {heading}
                         </h1>
                         <div className="md:text-md">{description}</div>
+                        <div className="mt-6 md:mt-8">
+                            <Link to="/our-services">
+                                <Button title="Explore More" variant="secondary">
+                                    Explore More
+                                </Button>
+                            </Link>
+                        </div>
 
                     </div>
                     <div>
@@ -23,7 +33,7 @@ export const Header98 = (props) => {
                     </div>
                 </div>
             </div>
-        </section>
+        </section >
     );
 };
 
@@ -32,18 +42,17 @@ export const Header98Defaults = {
     heading: "Aviana Academy: Premier Soft Skills & Corporate Training in Bangalore",
     description: (
         <>
-            <p className="mb-2">
-                Aviana Academy is committed to delivering high-quality learning experiences that strengthen
-                behavioural skills, leadership capability, and executive presence among professionals and
-                students.
+            <p className="mb-2 font-bold">
+                Building Confident Professionals, Effective Leaders & High-Performing Teams
             </p>
-            <p className="mb-2">We ensure that our training processes are:</p>
+            <p className="mb-2">
+                We deliver practical communication, leadership, executive presence, and behavioural skills
+                programs for corporates, institutions, and working professionals.
+            </p>
             <ul className="list-disc pl-5">
-                <li>Learner-centric</li>
-                <li>Structured and measurable</li>
-                <li>Transparent and inclusive</li>
-                <li>Continuous in improvement</li>
-                <li>Globally benchmarked</li>
+                <li>Learner-centric & outcome-driven</li>
+                <li>Structured & measurable</li>
+                <li>Inclusive & globally benchmarked</li>
             </ul>
         </>
     ),
