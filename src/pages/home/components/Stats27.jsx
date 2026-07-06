@@ -15,7 +15,7 @@ export function Stats27() {
                     </h2>
                     <p className="md:text-md">
                         Aviana Academy has shaped the careers of thousands of professionals
-                        across industries. These numbers reflect the real transformation
+                        in Bangalore and beyond. These numbers reflect the real transformation
                         happening in boardrooms and teams worldwide.
                     </p>
                 </div>

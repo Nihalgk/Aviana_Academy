@@ -14,7 +14,7 @@ export function Cta54() {
                             Ready to lead differently
                         </h2>
                         <p className="text-text-alternative md:text-md">
-                            Start your transformation with Aviana Academy. Our team is ready to
+                            Start your transformation with Aviana Academy in Bangalore. Our team is ready to
                             discuss which program fits your goals.
                         </p>
                     </div>

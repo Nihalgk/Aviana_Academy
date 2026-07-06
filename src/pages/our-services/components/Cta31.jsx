@@ -13,7 +13,7 @@ export function Cta31() {
                         Let’s Design the Right Program for You
                     </h2>
                     <p className="md:text-md">
-                        Start your transformation with Aviana Academy. Our team is ready to
+                        Start your transformation with Aviana Academy in Bangalore. Our team is ready to
                         discuss which program fits your goals.
                     </p>
                     <div className="mt-6 flex flex-wrap items-center justify-center gap-4 md:mt-8">

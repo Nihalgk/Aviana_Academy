@@ -12,7 +12,7 @@ export function Header62() {
                     See what we build
                 </h1>
                 <p className="md:text-md">
-                    Start your transformation with Aviana Academy. Our team is ready to
+                    Start your transformation with Aviana Academy in Bangalore. Our team is ready to
                     discuss which program fits your goals.
                 </p>
                 <div className="mt-6 flex items-center justify-center gap-x-4 md:mt-8">

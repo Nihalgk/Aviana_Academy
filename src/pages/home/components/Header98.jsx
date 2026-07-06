@@ -47,7 +47,7 @@ export const Header98Defaults = {
             </p>
             <p className="mb-2">
                 We deliver practical communication, leadership, executive presence, and behavioural skills
-                programs for corporates, institutions, and working professionals.
+                programs for corporates, institutions, and working professionals across Bangalore.
             </p>
             <ul className="list-disc pl-5">
                 <li>Learner-centric & outcome-driven</li>

@@ -12,8 +12,7 @@ export function Header62() {
                     Professional development that works
                 </h1>
                 <p className="md:text-md">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                    varius enim in eros elementum tristique.
+                    Explore Aviana Academy's comprehensive training and coaching programs in Bangalore — designed to build confident leaders, effective communicators, and high-performing teams.
                 </p>
                 <div className="mt-6 flex items-center justify-center gap-x-4 md:mt-8">
                     <Button title="Discover">Discover</Button>

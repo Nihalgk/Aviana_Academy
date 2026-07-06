@@ -14,7 +14,7 @@ export function Header62() {
           Build Confident Students & Future-Ready Campuses
         </h1>
         <p className="md:text-md">
-          We partner with educational institutions to deliver structured soft skills, leadership, and professional development programs that improve employability outcomes, student confidence, and campus culture.
+          We partner with educational institutions across Bangalore to deliver structured soft skills, leadership, and professional development programs that improve employability outcomes, student confidence, and campus culture.
         </p>
 
       </div>

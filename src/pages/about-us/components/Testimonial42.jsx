@@ -52,7 +52,7 @@ export function Testimonial42() {
                             What leaders say
                         </h2>
                         <p className="md:text-md">
-                            Real results from professionals who transformed through our
+                            Real results from professionals across Bangalore who transformed through our
                             programs
                         </p>
                     </div>

@@ -13,7 +13,7 @@ export function Header62() {
                     seeking clarity, confidence, and presence
                 </h1>
                 <p className="md:text-md">
-                    Our one-on-one coaching is designed for individuals at different stages
+                    Our one-on-one coaching in Bangalore is designed for individuals at different stages
                     of their journey whether you are starting out, stepping up, or
                     redefining how you show up professionally.
                 </p>

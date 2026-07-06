@@ -21,7 +21,7 @@ export function Header62() {
                 </h1>
                 <p className="md:text-md text-white">
                     We're here to answer your questions and discuss how we can help you
-                    grow
+                    grow — visit us in Bangalore or reach out online
                 </p>
 
             </div>

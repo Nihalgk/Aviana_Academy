@@ -51,7 +51,7 @@ export function Gallery15() {
                             See transformation in action
                         </h2>
                         <p className="md:text-md">
-                            Moments from our programs and the careers we've shaped
+                            Moments from our programs and the careers we've shaped across Bangalore
                         </p>
                     </div>
                     <Carousel

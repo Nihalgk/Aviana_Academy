@@ -63,7 +63,7 @@ export function Faq14() {
                             Is individual coaching available?
                         </h3>
                         <p>
-                            Individual coaching is available year-round with flexible
+                            Individual coaching is available year-round in Bangalore with flexible
                             scheduling to fit your calendar.
                         </p>
                     </div>

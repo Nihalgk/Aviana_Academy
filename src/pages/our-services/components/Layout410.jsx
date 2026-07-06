@@ -16,7 +16,7 @@ export function Layout410() {
                         Our Training & Coaching Solutions
                     </h1>
                     <p className="md:text-md">
-                        Customised learning interventions for corporates, institutions, and individuals focused on measurable professional growth.
+                        Customised learning interventions for corporates, institutions, and individuals in Bangalore — focused on measurable professional growth.
                     </p>
 
                 </div>

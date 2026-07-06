@@ -36,7 +36,7 @@ export function Layout423() {
                         Training & Coaching Solutions We Offer
                     </h2>
                     <p className="md:text-md">
-                        Practical programs that help professionals communicate clearly, lead confidently and perform with impact in the workplace.
+                        Practical programs that help professionals communicate clearly, lead confidently and perform with impact in the workplace — right here in Bangalore.
                     </p>
                 </div>
                 <div className="flex flex-col justify-between gap-6 md:gap-8 lg:flex-row">

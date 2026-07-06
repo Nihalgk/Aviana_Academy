@@ -15,7 +15,7 @@ export function Layout369() {
                             Professional development
                         </h2>
                         <p className="md:text-md">
-                            Tailored training for leaders and organizations
+                            Tailored training for leaders and organizations in Bangalore
                         </p>
                     </div>
                 </div>

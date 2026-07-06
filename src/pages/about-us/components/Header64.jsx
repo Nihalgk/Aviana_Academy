@@ -11,7 +11,7 @@ export function Header64() {
                 </h1>
                 <p className="md:text-md">
                     Aviana Academy transforms professionals into the leaders their
-                    organizations need most
+                    organizations need most — based in Bangalore, trusted nationwide
                 </p>
             </div>
         </section>

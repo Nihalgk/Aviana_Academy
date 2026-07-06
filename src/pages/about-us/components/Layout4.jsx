@@ -17,7 +17,7 @@ export function Layout4() {
                         </h1>
                         <div className="mb-6 md:mb-8 md:text-md space-y-4">
                             <p>
-                                Founded by a visionary expert in Image Management and Soft Skills, Aviana Academy was born from a passion for bridging the gap between technical competence and professional presence. With a legacy of training 5000+ professionals, our founder brings a globally benchmarked approach to behavioral coaching, helping leaders across Fortune 500 companies and prestigious institutions like MAHE and GIMS master the art of executive influence.
+                                Founded by a visionary expert in Image Management and Soft Skills, Aviana Academy was born in Bangalore from a passion for bridging the gap between technical competence and professional presence. With a legacy of training 5000+ professionals, our founder brings a globally benchmarked approach to behavioral coaching, helping leaders across Fortune 500 companies and prestigious institutions like MAHE and GIMS master the art of executive influence.
                             </p>
                         </div>
                         <div className="py-2">

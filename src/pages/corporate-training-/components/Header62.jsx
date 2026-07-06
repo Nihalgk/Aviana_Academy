@@ -10,7 +10,7 @@ export function Header62() {
                     Corporate Training That Builds Confident Leaders & High-Performing Teams
                 </h1>
                 <p className="md:text-md">
-                    Practical leadership, communication, and behavioural skills training designed to create measurable impact across teams and organizations.
+                    Practical leadership, communication, and behavioural skills training in Bangalore — designed to create measurable impact across teams and organizations.
                 </p>
                 <div className="mt-6 flex items-center justify-center md:mt-8">
                     <Link to="/contact">
