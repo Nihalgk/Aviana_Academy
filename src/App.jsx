@@ -16,12 +16,14 @@ import ExecutivePresenceBlog from './pages/blog/executive-presence';
 import PersonalBrandBlog from './pages/blog/personal-brand';
 
 import WhatsAppButton from './components/WhatsAppButton';
+import FraudAlertPopup from './components/FraudAlertPopup';
 
 function App() {
     return (
         <Router>
             <ScrollToTop />
             <WhatsAppButton />
+            <FraudAlertPopup />
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/about-us" element={<AboutUs />} />

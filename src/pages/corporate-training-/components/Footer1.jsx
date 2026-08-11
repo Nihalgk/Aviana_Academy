@@ -3,6 +3,7 @@
 import { Button, Input } from "@relume_io/relume-ui";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import FraudAlertFooterNotice from "../../../components/FraudAlertFooterNotice";
 import {
     BiLogoFacebookCircle,
     BiLogoInstagram,
@@ -170,6 +171,7 @@ export function Footer1() {
                         </div>
                     </div>
                 </div>
+                <FraudAlertFooterNotice />
                 <div className="h-px w-full bg-white" />
                 <div className="flex flex-col-reverse items-start justify-between pb-4 pt-6 text-sm md:flex-row md:items-center md:pb-0 md:pt-8">
                     <p className="mt-6 md:mt-0">© 2025 Aviana Academy. All rights reserved.</p>
