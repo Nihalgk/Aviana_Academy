@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 const FraudAlertFooterNotice = () => {
     return (
@@ -36,10 +35,6 @@ const FraudAlertFooterNotice = () => {
                                 info@avianaacademy.in
                             </a>
                         </span>
-                        {' '}
-                        <Link to="/fraud-alert" className="inline-flex items-center gap-1 font-semibold text-red-700 hover:text-red-900 transition-colors ml-0 sm:ml-2 whitespace-nowrap mt-2 sm:mt-0">
-                            Read more &rarr;
-                        </Link>
                     </p>
                 </div>
             </div>
